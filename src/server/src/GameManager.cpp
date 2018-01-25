@@ -9,6 +9,7 @@
 #include "../include/Communication.h"
 
 GameManager *GameManager::instance = NULL;
+pthread_mutex_t GameManager::instance_mutex_;
 
 void *JoinGame(void *args) {
   Game *game = (Game *) args;
@@ -65,8 +66,11 @@ int GameManager::Join(int client_socket, string name) {
 }
 
 GameManager *GameManager::Instance() {
-  if (!instance)
+  if (!instance) {
+    pthread_mutex_lock(&instance_mutex_);
     instance = new GameManager();
+    pthread_mutex_unlock(&instance_mutex_);
+  }
   return instance;
 }
 

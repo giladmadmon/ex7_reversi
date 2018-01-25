@@ -64,6 +64,7 @@ class GameManager {
   map<Game *, thread_t> games_list_;
   map<string, Game *> available_game_list_;
   pthread_mutex_t available_games_mutex_;
+  static pthread_mutex_t instance_mutex_;
   bool games_closing_;
 
   /**
