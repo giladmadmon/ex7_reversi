@@ -18,83 +18,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb6f8ab4-351a-4d4c-a4c5-6a47e70e480b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/src/client/src/main.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/src/client/src/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/ClientHandler.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/ClientHandler.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/CommandJoin.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/CommandJoin.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/CommandListGames.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/CommandListGames.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/CommandStart.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/CommandStart.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/GameManager.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/GameManager.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/Server.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/Server.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/ThreadPool.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/ThreadPool.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/main.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Server.dir/src/server/src/main.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Client" afterPath="$PROJECT_DIR$/cmake-build-debug/Client" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Server" afterPath="$PROJECT_DIR$/cmake-build-debug/Server" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/AIPlayer.h" afterPath="$PROJECT_DIR$/src/client/include/AIPlayer.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/Board.h" afterPath="$PROJECT_DIR$/src/client/include/Board.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/ClassicLogic.h" afterPath="$PROJECT_DIR$/src/client/include/ClassicLogic.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/Client.h" afterPath="$PROJECT_DIR$/src/client/include/Client.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/ClientConfigParser.h" afterPath="$PROJECT_DIR$/src/client/include/ClientConfigParser.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/ConsolePrinter.h" afterPath="$PROJECT_DIR$/src/client/include/ConsolePrinter.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/Convert.h" afterPath="$PROJECT_DIR$/src/client/include/Convert.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/HumanPlayer.h" afterPath="$PROJECT_DIR$/src/client/include/HumanPlayer.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/LocalPlayer.h" afterPath="$PROJECT_DIR$/src/client/include/LocalPlayer.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/Logic.h" afterPath="$PROJECT_DIR$/src/client/include/Logic.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/Player.h" afterPath="$PROJECT_DIR$/src/client/include/Player.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/PlayerColor.h" afterPath="$PROJECT_DIR$/src/client/include/PlayerColor.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/Position.h" afterPath="$PROJECT_DIR$/src/client/include/Position.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/Printer.h" afterPath="$PROJECT_DIR$/src/client/include/Printer.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/RemotePlayer.h" afterPath="$PROJECT_DIR$/src/client/include/RemotePlayer.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/include/ReversiGame.h" afterPath="$PROJECT_DIR$/src/client/include/ReversiGame.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/AIPlayer.cpp" afterPath="$PROJECT_DIR$/src/client/src/AIPlayer.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/Board.cpp" afterPath="$PROJECT_DIR$/src/client/src/Board.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/ClassicLogic.cpp" afterPath="$PROJECT_DIR$/src/client/src/ClassicLogic.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/Client.cpp" afterPath="$PROJECT_DIR$/src/client/src/Client.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/ClientConfigParser.cpp" afterPath="$PROJECT_DIR$/src/client/src/ClientConfigParser.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/ConsolePrinter.cpp" afterPath="$PROJECT_DIR$/src/client/src/ConsolePrinter.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/Convert.cpp" afterPath="$PROJECT_DIR$/src/client/src/Convert.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/HumanPlayer.cpp" afterPath="$PROJECT_DIR$/src/client/src/HumanPlayer.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/LocalPlayer.cpp" afterPath="$PROJECT_DIR$/src/client/src/LocalPlayer.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/Logic.cpp" afterPath="$PROJECT_DIR$/src/client/src/Logic.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/Position.cpp" afterPath="$PROJECT_DIR$/src/client/src/Position.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/RemotePlayer.cpp" afterPath="$PROJECT_DIR$/src/client/src/RemotePlayer.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/ReversiGame.cpp" afterPath="$PROJECT_DIR$/src/client/src/ReversiGame.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/src/main.cpp" afterPath="$PROJECT_DIR$/src/client/src/main.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/test/AIPlayerTest.cpp" afterPath="$PROJECT_DIR$/src/client/test/AIPlayerTest.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/test/BoardStates.h" afterPath="$PROJECT_DIR$/src/client/test/BoardStates.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/test/BoardTest.cpp" afterPath="$PROJECT_DIR$/src/client/test/BoardTest.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/test/ClassicLogicTest.cpp" afterPath="$PROJECT_DIR$/src/client/test/ClassicLogicTest.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/test/main.cpp" afterPath="$PROJECT_DIR$/src/client/test/main.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/ClientHandler.h" afterPath="$PROJECT_DIR$/src/server/include/ClientHandler.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/Command.h" afterPath="$PROJECT_DIR$/src/server/include/Command.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/CommandJoin.h" afterPath="$PROJECT_DIR$/src/server/include/CommandJoin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/CommandListGames.h" afterPath="$PROJECT_DIR$/src/server/include/CommandListGames.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/CommandManager.h" afterPath="$PROJECT_DIR$/src/server/include/CommandManager.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/CommandStart.h" afterPath="$PROJECT_DIR$/src/server/include/CommandStart.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/Communication.h" afterPath="$PROJECT_DIR$/src/server/include/Communication.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/ConsoleServerPrinter.h" afterPath="$PROJECT_DIR$/src/server/include/ConsoleServerPrinter.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/Convert.h" afterPath="$PROJECT_DIR$/src/server/include/Convert.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/Game.h" afterPath="$PROJECT_DIR$/src/server/include/Game.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/GameManager.h" afterPath="$PROJECT_DIR$/src/server/include/GameManager.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/Server.h" afterPath="$PROJECT_DIR$/src/server/include/Server.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/ServerConfigParser.h" afterPath="$PROJECT_DIR$/src/server/include/ServerConfigParser.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/ServerPrinter.h" afterPath="$PROJECT_DIR$/src/server/include/ServerPrinter.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/Task.h" afterPath="$PROJECT_DIR$/src/server/include/Task.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/include/ThreadPool.h" afterPath="$PROJECT_DIR$/src/server/include/ThreadPool.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/ClientHandler.cpp" afterPath="$PROJECT_DIR$/src/server/src/ClientHandler.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/CommandJoin.cpp" afterPath="$PROJECT_DIR$/src/server/src/CommandJoin.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/CommandListGames.cpp" afterPath="$PROJECT_DIR$/src/server/src/CommandListGames.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/CommandManager.cpp" afterPath="$PROJECT_DIR$/src/server/src/CommandManager.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/CommandStart.cpp" afterPath="$PROJECT_DIR$/src/server/src/CommandStart.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/Communication.cpp" afterPath="$PROJECT_DIR$/src/server/src/Communication.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/ConsoleServerPrinter.cpp" afterPath="$PROJECT_DIR$/src/server/src/ConsoleServerPrinter.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/Convert.cpp" afterPath="$PROJECT_DIR$/src/server/src/Convert.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/Game.cpp" afterPath="$PROJECT_DIR$/src/server/src/Game.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/GameManager.cpp" afterPath="$PROJECT_DIR$/src/server/src/GameManager.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/Server.cpp" afterPath="$PROJECT_DIR$/src/server/src/Server.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/ServerConfigParser.cpp" afterPath="$PROJECT_DIR$/src/server/src/ServerConfigParser.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/ThreadPool.cpp" afterPath="$PROJECT_DIR$/src/server/src/ThreadPool.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/src/main.cpp" afterPath="$PROJECT_DIR$/src/server/src/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exe/client.out" afterPath="$PROJECT_DIR$/exe/client.out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exe/server.out" afterPath="$PROJECT_DIR$/exe/server.out" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,8 +44,18 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/server/src/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="722">
+              <caret line="48" column="13" lean-forward="false" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Server.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/server/src/Server.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="632">
+              <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -130,17 +65,17 @@
         <entry file="file://$PROJECT_DIR$/src/client/src/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AIPlayer.h" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AIPlayer.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/client/include/AIPlayer.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="650">
+              <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -304,7 +239,20 @@
             <path>
               <item name="Task_07" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="Task_07" type="462c0819:PsiDirectoryNode" />
-              <item name="exe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task_07" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Task_07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Task_07" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Task_07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -422,7 +370,7 @@
       <workItem from="1516364842737" duration="98000" />
       <workItem from="1516808188513" duration="2134000" />
       <workItem from="1516897538189" duration="1395000" />
-      <workItem from="1516898948532" duration="172000" />
+      <workItem from="1516898948532" duration="884000" />
     </task>
     <servers />
   </component>
@@ -438,12 +386,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213047000" />
+    <option name="totallyTimeSpent" value="213759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1919786" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1919786" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1487965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -762,14 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/server/src/Server.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/server/include/Server.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -818,26 +759,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/server/src/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/client/src/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/client/include/AIPlayer.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="650">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="48" column="13" lean-forward="false" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/src/Server.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
           <folding />
         </state>
       </provider>
