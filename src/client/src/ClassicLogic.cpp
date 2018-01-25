@@ -1,7 +1,7 @@
 /**************
 * Student name: Gilad Madmon
 * Student name: Dafna Magid
-* Exercise name: Exercise 5
+* Exercise name: Exercise 7
 **************/
 
 #include <iostream>

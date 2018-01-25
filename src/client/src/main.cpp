@@ -1,7 +1,7 @@
 /**************
 * Student name: Gilad Madmon
 * Student name: Dafna Magid
-* Exercise name: Exercise 5
+* Exercise name: Exercise 7
 **************/
 
 #include  <iostream>
@@ -47,8 +47,7 @@ int main() {
   Board board;
   ClassicLogic logic;
   ConsolePrinter printer;
-  //HumanPlayer this_player;
-  AIPlayer this_player(board,logic);
+  HumanPlayer this_player;
   int option;
 
   printer.PrintMainMenu();
